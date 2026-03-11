@@ -145,7 +145,7 @@ PDF Inspector Business **turns “read everything” into “review only what ma
 ## 💳 Purchase
 
 - Reference price: **$178** (safe Stripe payment)  
-- Purchase here: [Stripe Payment Link](https://buy.stripe.com/6oUeVd2Km3TQgK43HG7EQ00)  
+- Purchase here: [Stripe Payment Link](https://buy.stripe.com/00waEXckW8a665qba87EQ02)  
 
 > Final price may vary slightly due to currency exchange or fees.
 

@@ -47,7 +47,7 @@ If you're dealing with large numbers of PDFs, you already know the problem:
 - No registration required
 
 **Download Free Version ↓**  
-👉 *(Place your download link here)*
+👉 https://github.com/swlinkalt-lab/PDF_Inspector_en/releases/tag/free-v1.0
 
 ---
 

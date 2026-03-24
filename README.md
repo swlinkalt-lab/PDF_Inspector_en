@@ -42,7 +42,7 @@ If you're dealing with large numbers of PDFs, you already know the problem:
 
 👉 Try before you buy
 
-- Scan up to **50 PDFs**
+- Scan up to **15 PDFs**
 - Full core functionality
 - No registration required
 

@@ -62,7 +62,7 @@ Unlock full power:
 - Execution logs
 
 👉 **Buy here:**  
-https://buy.stripe.com/00waEXckW8a665qba87EQ02
+We're getting ready...
 
 ---
 

@@ -62,7 +62,7 @@ Unlock full power:
 - Execution logs
 
 👉 **Buy here:**  
-We're getting ready...
+https://thaissoftware.gumroad.com/l/pdf_inspector
 
 ---
 
